@@ -1,0 +1,21 @@
+.qodo
+
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Ignorer les checkpoints Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorer un dossier data
+data/
+
+# Ignorer un dossier models
+models/
+
+
+# ingorer les fichiers env
+
+env_ml_dl/
+
+
